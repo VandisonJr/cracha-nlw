@@ -1,9 +1,9 @@
 const LinksSocialMedia = {
     github: "VandisonJr",
-    youtube: "jakelinygracielly",
-    facebook: "Vandison",
+    youtube: "",
+    facebook: "VandisonJunior",
     instagram: "vandisonjr",
-    twitter: "jakelinytec"
+    twitter: ""
 }
 
 function changeSocialMediaLinks() {
